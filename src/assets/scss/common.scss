@@ -1,0 +1,10 @@
+.manage{
+	height: 95%;
+	padding: 20px;
+	overflow: hidden;
+	&-header{
+		display: flex;
+		justify-content: space-between;/* 居中对齐 */
+		align-items: flex-start;/* 侧轴起点对齐 */
+	}
+}
